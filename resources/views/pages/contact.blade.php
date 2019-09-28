@@ -30,7 +30,7 @@
                         <div class="info_item">
                             <i class="lnr lnr-home"></i>
                             <h6>United States</h6>
-                            <p>370 Myrtle St Apt 102, <br> Glendale, CA</p>
+                            <p> Glendale, CA</p>
                         </div>
                         <div class="info_item">
                             <i class="lnr lnr-phone-handset"></i>
